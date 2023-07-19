@@ -1,4 +1,4 @@
-// TODO: add code here hb
+// TODO: add code here 
 
 window.addEventListener('load', () => {
     fetch(`https://handlers.education.launchcode.org/static/astronauts.json`).then((response) => {
